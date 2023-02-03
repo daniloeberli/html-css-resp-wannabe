@@ -152,6 +152,10 @@ img {
         align-items: center;
     }
     
+    .row .col{
+        width: auto;
+        padding-bottom: 3rem;
+    }
 
     .why-us{
         background-color: #222222;
